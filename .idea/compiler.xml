@@ -9,5 +9,8 @@
         <module name="TijanaJenkins" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CucumberBatch14" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
